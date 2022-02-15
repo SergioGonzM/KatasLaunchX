@@ -1,2 +1,2 @@
 # KatasLaunchX
-Ejercicios de LaunchX
+Ejercicios del Curso Introduccion a Python de LaunchX 
